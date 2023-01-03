@@ -1,7 +1,7 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=ggg&fontColor=FFFFFF&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hyeon's%20Github&fontColor=FFFFFF&fontSize=50)
 
 
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&fontSize=90)
+
