@@ -13,7 +13,10 @@
   
   
 >## 🛠️포트폴리오🛠️
-이력서와 포트폴리오는 [`Notion`](https://gaudy-brand-46a.notion.site/Unity3D-6ad9316376cd415e82370982cf780f8a) 에서 확인하실 수 있습니다.
+이력서와 포트폴리오는 [`Notion`](https://gaudy-brand-46a.notion.site/Unity3D-6ad9316376cd415e82370982cf780f8a) 에서 확인하실 수 있습니다.  
+</br>
+</br>
+</br>
 
 
 >## 🛠️Available Tools🛠️
